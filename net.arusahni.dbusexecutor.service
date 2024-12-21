@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=net.arusahni.DbusExecutor
+Exec=/home/USERNAME/.local/bin/dbus-executor
